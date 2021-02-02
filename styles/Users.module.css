@@ -1,0 +1,41 @@
+.userContainer {
+  display: flex;
+  padding-top: 20px;
+}
+
+.userContainer div {
+  flex: 1;
+}
+
+.userTabs {
+  margin-right: 30px;
+}
+
+.userProfile {
+  display: flex;
+  flex-direction: column;
+  margin-left: 30px;
+}
+
+.userInfo {
+  display: flex;
+}
+
+.userInfo p{
+  margin: 5px;
+}
+
+.userBio{
+  margin-right: 20px;
+}
+
+.userBio div, .userAddress div{
+  padding: 5px;
+  margin-bottom: 15px;
+  border-left: 2px solid #8991A3;
+}
+
+.userAddress {
+  margin-left: 20px;
+}
+

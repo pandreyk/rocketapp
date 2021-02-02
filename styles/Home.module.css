@@ -1,0 +1,16 @@
+.dotes {
+  white-space: nowrap; 
+  max-width: 400px; 
+  overflow: hidden;
+  text-overflow: ellipsis; 
+}
+
+.sliderContainer {
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+.sliderContent {
+  display: flex !important; /* for slider */
+  justify-content: center;
+}

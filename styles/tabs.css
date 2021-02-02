@@ -1,0 +1,19 @@
+.react-tabs__tab {
+  box-sizing: border-box !important;
+  border: none !important;
+  width: 143px;
+  text-align: center;
+}
+
+.react-tabs__tab--selected, .react-tabs__tab:hover {
+  color: #3D42D6 !important;
+}
+
+.react-tabs__tab--selected {
+  box-sizing: border-box !important;
+  border-bottom: 3px solid #3D42D6 !important;
+}
+
+.react-tabs__tab-list {
+  border-bottom: 2px solid #8991A3 !important;
+}

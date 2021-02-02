@@ -1,0 +1,15 @@
+.card {
+  background-color: black;
+  margin: 15px;
+  height: 150px;
+  width: 150px;
+}
+
+.card img {
+  object-fit: cover;
+  transition: opacity .3s;
+}
+
+.card img:hover {
+  opacity: 0.5;
+}

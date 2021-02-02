@@ -1,0 +1,15 @@
+.slick-arrow:before {
+  color: #8991A3 !important;
+}
+
+.slick-prev {
+  transform: translate(-100%, -50%) !important;
+}
+
+.slick-next {
+  transform: translate(100%, -50%) !important;
+}
+
+.slick-initialized .slick-slide div{
+  margin: 0 15px;
+}
