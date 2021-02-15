@@ -22,7 +22,7 @@ const Navbar = () => {
         </div>
         <div>
           <Link href="/albums">
-            <a>Albums</a>
+            <a>Albumsss</a>
           </Link>
         </div>
         </div>

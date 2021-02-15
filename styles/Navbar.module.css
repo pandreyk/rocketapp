@@ -34,6 +34,6 @@
   background: linear-gradient(90deg, #3D42D6 0%, #32A0EF 100%);
 }
 
-.headerMenu a:active {
+.headerMenu a.active {
   background: #3D42D6;
 }
